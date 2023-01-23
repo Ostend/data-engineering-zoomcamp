@@ -57,3 +57,4 @@ WHERE pickup_zone."Zone" = 'Astoria'
 ORDER BY 
 g.tip_amount desc
 
+--ANSWER: Long Island City/Queens Plaza
